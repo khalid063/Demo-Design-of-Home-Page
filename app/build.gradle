@@ -39,4 +39,6 @@ dependencies {
 
     // for Navigation menu bar
     implementation 'com.android.support:design:30.0.0'
+    // Materil Design
+    implementation 'com.google.android.material:material:1.0.0'
 }
